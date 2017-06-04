@@ -1,0 +1,31 @@
+{
+  "name": "niftyretriever",
+  "version": "1.0.0",
+  "description": "Tool for scraping a site for Nifty links",
+  "main": "index.js",
+  "dependencies": {
+    "html-encoding-sniffer": "^1.0.1",
+    "http-parser-js": "^0.4.4",
+    "jsdom": "^9.8.0",
+    "parse-link-header": "^0.4.1",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoomTay/NiftyRetriever.git"
+  },
+  "keywords": [
+    "nifty",
+    "scraper"
+  ],
+  "author": "DoomTay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoomTay/NiftyRetriever/issues"
+  },
+  "homepage": "https://github.com/DoomTay/NiftyRetriever#readme"
+}
